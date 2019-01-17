@@ -1,15 +1,4 @@
 
-
-const cfg require('./index.json');
-const token = process.env.token 
-const prefix = ("?");
-
-
-bot.login(token);
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
