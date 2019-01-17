@@ -6,6 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  
+  
   "author": "Équitation For Life Fr CSO",
   "license": "ISC",
   "dependencies": {
