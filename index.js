@@ -39,4 +39,4 @@ bot.on('message', msg => {
 
 });
 
-bot.login(process.evn.token); //a garder en version heroku
+bot.login(process.env.token); //a garder en version heroku
