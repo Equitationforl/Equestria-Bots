@@ -1,7 +1,6 @@
 
 
 const cfg require('./index.json');
-const token = process.env.token
 const token = process.env.token 
 const prefix = ("?");
 
