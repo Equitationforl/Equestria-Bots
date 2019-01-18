@@ -10,7 +10,7 @@ bot.on('ready', function () {
 
 bot.on('guildMemberAdd', member => {
     member.createDM().then(channel => {
-        return channel.send('Bienvenue sur le serveur de Equitation For Life Fr CSO + member.displayName)
+        return channel.send('Bienvenue sur le serveur de + member.displayName)
         console.log(`${member.displayName} à rejoind le serveur.`)
     }).catch(console.error)
 });
